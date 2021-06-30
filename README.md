@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# C.V ( Curriculum Vitae )
 
-You can use the [editor on GitHub](https://github.com/mhmadwrekatt/public/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me  
+* ### Name : Mohammad Fozan AL-wrekat
+*  Age : 25 Years old
+* location : Jordan - Amman - Abunsair
+*
+## Skills 
+1. C++ Programming Language
+2. HTML , CSS , JavaScript
+3. GitHub
+4. Front End Web Developer
+5. Microsoft Office ( Excel , Word )
+6. Data Entry
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education 
+* Hight Secondary School Certifiate 2016
+* Bachelor Degree ( Software Engineering ) AAU 2020
+* LTUC Full Stack Web Developer 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhmadwrekatt/public/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Language
+* Arabic 
+* English
