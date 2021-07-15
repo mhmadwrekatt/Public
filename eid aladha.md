@@ -19,7 +19,7 @@
 
 
 ---
-<p align="center">
-© **~~Mhmad Wrekat~~**
-</p>
+<h3 align="center">
+© Mhmad Wrekat
+</h3>
 ---
