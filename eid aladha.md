@@ -1,11 +1,16 @@
- <p align="right" >
- # **كل عام وانتم بالف خير**
+ <p align="center" , align="bold" >
+ كل عام وانتم بالف خير
+</p>
 
-<p align="center" >
-
-<p align="center" ># **ينعاد عليكم بالصحه والعافيه** 
 ---
-## <p align="center" >**محمد فوزان الوريكات**
+<h2 align="center">
+ Your content
+</h2>
+
+---
+# **ينعاد عليكم بالصحه والعافيه** 
+---
+# **محمد فوزان الوريكات**
 ---
 ![اضحى مبارك](https://emypost.com/wp-content/uploads/2020/07/446532-lIgtz-1534024277-%D8%A7%D8%B6%D8%AD%D9%89-.jpg)
 ---
