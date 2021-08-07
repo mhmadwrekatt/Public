@@ -18,7 +18,7 @@
 
 
 ---
-<h3 align="center">
+<p align="center">
 © Mhmad Wrekat
-</h3>
+</p>
 ---
